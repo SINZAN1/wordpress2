@@ -1,0 +1,49 @@
+.country-inn-about-wrap .country-inn-section .dashicons {
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+.country-inn-about-wrap .nav-tab {
+	font-size: 16px;
+}
+
+.country-inn-about-wrap h1 {
+	font-size: 2em;
+}
+
+.country-inn-about-wrap h3 {
+	font-size: 1.2em;
+}
+
+.country-inn-about-wrap .country-inn-section-useful-plugins,
+.country-inn-about-wrap .country-inn-section-upgrade-to-pro,
+.country-inn-about-wrap .country-inn-section-demo-content {
+	margin-top: 50px;
+}
+
+.country-inn-about-wrap .tab-upgrade-to-pro {
+	background-color: #bf2424;
+	background-color: #159614;
+	color: #FFF;
+}
+
+.country-inn-about-wrap .wp-badge {
+	background-image: url('../images/canyonthemes-logo.png');
+	background-color: #FFF;
+	background-size: 110px auto;
+	background-position: center;
+	height: 70px;
+}
+
+.country-inn-about-wrap .quick-links a {
+	margin-right: 5px;
+}
+
+.country-inn-about-notice .btn-dismiss {
+	margin-left: 20px;
+}
+
+.country-inn-about-wrap .plugin-list {
+	list-style-position: inside;
+	list-style-type: disc;
+}
